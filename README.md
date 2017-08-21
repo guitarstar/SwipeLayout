@@ -1,6 +1,6 @@
 # SwipeLayout
 ![image](https://github.com/guitarstar/SwipeLayout/blob/master/screenshot/swipelayout.gif?raw=true)
-[源码解析博客](http://blog.csdn.net/guitarstudio/article/details/48525339/ "源码解析博客-- 一分钟轻松打造左滑删除+下拉刷新Listview控件")
+![源码解析博客-- 一分钟轻松打造左滑删除+下拉刷新Listview控件](http://blog.csdn.net/guitarstudio/article/details/48525339/ "源码解析博客-- 一分钟轻松打造左滑删除+下拉刷新Listview控件")
 
 步骤 1. Add the JitPack repository to your build file
 
