@@ -1,4 +1,6 @@
 # SwipeLayout
+![示例](http://img.blog.csdn.net/20150921154357028 "demo示例")
+
 步骤 1. Add the JitPack repository to your build file
 
 	allprojects {
