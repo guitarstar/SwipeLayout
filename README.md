@@ -4,6 +4,8 @@
 源码解析博客-- 一分钟轻松打造左滑删除+下拉刷新Listview控件
 http://blog.csdn.net/guitarstudio/article/details/48525339/
 
+demo测试安装apk下载地址：https://github.com/guitarstar/SwipeLayout/blob/master/download/demo.apk
+
 步骤 1. Add the JitPack repository to your build file
 
 	allprojects {
