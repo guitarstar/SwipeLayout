@@ -9,7 +9,7 @@
 步骤 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.guitarstar:PullRefreshLayout-master:v1.0.8'
+	        compile 'com.github.guitarstar:SwipeLayout:v1.0'
 	}
   
 步骤 3. 列表的布局layout编写
