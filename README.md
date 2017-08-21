@@ -1,5 +1,5 @@
 # SwipeLayout
-![image](http://img.blog.csdn.net/20150921154357028)
+![image](http://img.blog.csdn.net/20150921154357028?raw=true)
 
 步骤 1. Add the JitPack repository to your build file
 
